@@ -1,0 +1,12 @@
+commit d0d1ffe36ffa1be6f7f23751ab62755739c10da5 (HEAD -> new_branch, origin/new_branch)
+Author: DancheBacheva <danchebacheva@gmail.com>
+Date:   Wed Mar 22 21:59:44 2023 +0100
+
+    nasata granka
+
+commit ccfcc9c170023a55e3d55313135254b8cb7c987d
+Author: DancheBacheva <danchebacheva@gmail.com>
+Date:   Wed Mar 22 21:39:15 2023 +0100
+
+    dodaden nov fajl
+
